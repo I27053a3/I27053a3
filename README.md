@@ -1,10 +1,10 @@
-### Welcome 
+### 🌱 Welcome 
 - Meu nome é Isabela Lemes
 - Estou estudando na Alura
 - Me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e compartilhamento de meus projetos.
 
-### contato: 
+### 💬 contato: 
 00001096571183sp@al.educacao.sp.gov.br
 
 
