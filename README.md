@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 
+- Meu nome é Isabela Lemes
+- Estou estudando na Alura
+- Me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhamento de meus projetos.
+
 
 <!--
 **I27053a3/I27053a3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
